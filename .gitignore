@@ -22,3 +22,12 @@ rag/chroma_db/
 # System
 .DS_Store
 Thumbs.db
+
+# PlatformIO
+.pio/
+firmware/**/.pio/
+firmware/**/.pioenvs/
+firmware/**/.piolibdeps/
+
+# VS Code
+.vscode/
